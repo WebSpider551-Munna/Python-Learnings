@@ -1,7 +1,8 @@
+"""Plays a simple number guessing game."""
 import random
 
 def guess_the_number():
-    """Plays a simple number guessing game."""
+    
     number_to_guess = random.randint(1, 100)
     attempts = 0
     guess = None
