@@ -1,0 +1,11 @@
+git config details:
+User.Name: WebSpider551-Munna
+User.Email: webspider551@gmail.com
+
+Run the following commands:
+git config --global user.name "WebSpider551-Munna"
+git config --global user.email "webspider551@gmail.com"
+
+Check if it's set correctly:
+git config --global user.name
+git config --global user.email
